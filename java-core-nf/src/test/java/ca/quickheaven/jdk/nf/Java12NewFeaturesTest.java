@@ -1,4 +1,4 @@
-package ca.quickheaven;
+package ca.quickheaven.jdk.nf;
 
 import org.junit.Test;
 
@@ -17,7 +17,7 @@ import static org.junit.Assert.assertEquals;
 /**
  * {@link <a href="https://www.baeldung.com/java-12-new-features">New Features in Java 12</a>}
  */
-public class Java12Test {
+public class Java12NewFeaturesTest {
 
     @Test
     public void givenString_thenIndentValue() {
